@@ -7,7 +7,7 @@ title: Optimization of Code
 - With vmap, you can seamlessly apply a function to a batch of inputs, eliminating the need for explicit looping. This not only simplifies the code but also significantly improves performance, especially when dealing with large datasets or complex computations.
 
 ### Following is the comparison in computation times between tensor and vmap implementation 
-![comparison graph](https://drive.google.com/file/d/1Y0mtv3flyzhtfjgR3P6UXl499FUUFqyA/view?usp=sharing)
+![comparison graph](https://drive.google.com/uc?id=<1Y0mtv3flyzhtfjgR3P6UXl499FUUFqyA>)
 
 ### Following PRs implement vmap in calculating o-information
 - [Pull request #6](https://github.com/brainets/hoi/pull/6)
