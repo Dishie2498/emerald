@@ -33,4 +33,5 @@ custom_header: false
 custom_nav_footer: false
 reverse: false
 
-gems: - jekyll-sitemap
+gems: 
+      - jekyll-sitemap
