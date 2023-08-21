@@ -1,6 +1,14 @@
 ---
 title: Optimization of Code
 ---
+The information-theoretical quantity known as the O-information (short for "information about Organisational structure") is used 
+to characterise statistical interdependencies within multiplets of three and more variables. It enables us to determine the nature of 
+the information, i.e., whether multiplets are primarily carrying redundant or synergistic information, in addition to quantifying how 
+much information multiplets of brain areas are carrying.
+It takes an extensive amount of computation to estimate HOIs. The O-information is a perfect choice to estimate HOIs in a timely manner
+because its computational cost just requires basic quantities like entropies. There is yet no neuroinformatic standard of merit for HOI 
+estimation that can be used by aficionados of all skill levels in a reasonable amount of time.
+
 ## [jax.vmap()](https://jax.readthedocs.io/en/latest/_autosummary/jax.vmap.html)
 [```vmap```](https://jax.readthedocs.io/en/latest/_autosummary/jax.vmap.html) is a feature in JAX that enables efficient parallelization of functions over arrays or sequences of inputs.
 - vmap stands for "vectorized map" and is a powerful feature that enables efficient parallelization of functions over arrays or sequences of inputs.
